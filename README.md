@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Explain the concept of filtering an array
-- Build our own version of JavaScript's `Array.prototype.filter()` method
+- Explain the concept of filtering an array.
+- Build our own version of JavaScript's `Array.prototype.filter()` method.
 - Define what makes a function _pure_ and explain why _pure functions_ are often
   preferable to _impure functions_
 - Use `Array.prototype.filter()`
